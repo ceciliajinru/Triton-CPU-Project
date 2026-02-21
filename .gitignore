@@ -1,0 +1,15 @@
+# ModelSim compiled library
+TMP/work/
+
+# ModelSim transcripts and logs
+TMP/transcript
+TMP/*.log
+TMP/*.wlf
+TMP/*.vcd
+
+# Ignore generated memory files
+TMP/mem_i.hex
+TMP/mem_d.hex
+
+# OS junk
+.DS_Store
